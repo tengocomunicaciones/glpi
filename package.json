@@ -59,12 +59,12 @@
         "prismjs": "^1.23.0",
         "process": "^0.11.10",
         "qtip2": "^3.0.3",
-        "rrule": "^2.6.3",
+        "rrule": "^2.7.0",
         "select2": "^4.0.13",
         "spectrum-colorpicker2": "^2.0.9",
         "spin.js": "^4.1.0",
         "tinymce": "^6.0.2",
-        "tinymce-i18n": "^22.5.2"
+        "tinymce-i18n": "^22.12.27"
     },
     "scripts": {
         "build:pack": "webpack --config webpack.config.js",
